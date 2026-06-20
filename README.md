@@ -1,5 +1,6 @@
 # 💫 About Me:
-I m currently learning a data science skills ,i having a basic good knowledge about python and its libraries ,and with that  i also work on analysis tools like sql tabbleau power bi and excel , i have a intrest in datasets ,and wabt to build a strong pasiionate future in data anlytics and science <br>
+
+I am a dedicated data science and analytics learner with solid foundations in Python (pandas, NumPy, scikit-learn, matplotlib/seaborn), SQL and MySQL Server, and data visualization tools including Power BI and Tableau. I apply analytical thinking to transform raw data into actionable insights, build reproducible analysis pipelines, and develop clear, business-focused dashboards. Comfortable with Excel for ad-hoc analysis and reporting, I enjoy solving real-world problems through exploratory data analysis, feature engineering, and model prototyping. Currently expanding my skills in advanced machine learning and cloud-based workflows, I’m seeking opportunities to contribute to data-driven projects where I can deliver measurable impact while continuing to grow as a data professional.
 
 
 ## 🌐 Socials:
